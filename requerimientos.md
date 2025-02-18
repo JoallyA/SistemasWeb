@@ -1,6 +1,6 @@
 # Taller de matemáticas en moodle
 ## Objetivo
-Crear una plataforma educativa que contenga un curso de matemáticas que brinde a los estudiantes una plataforma flexible y accesible donde pueden aprender a su propio ritmo. 
+Crear una plataforma educativa (en moodle) que contenga un curso de matemáticas que brinde a los estudiantes una plataforma flexible y accesible donde pueden aprender a su propio ritmo. 
 Además, debe ofrecer recursos interactivos y ejercicios prácticos que permiten reforzar los conceptos, identificar áreas de mejora y aumentar la confianza de los estudiante, permitiendo al estudiante revisar el curso de manera remota. 
 
 Debe estar condormado poe 8 módulos
@@ -20,14 +20,19 @@ Pueden ser estudiantes de secundaria en adelante, principalmente mexicanos, sin 
 
 ## Casos de uso
 **Usuario no registrado**
-Puede visualizar 
+Puede visualizar el contenido del curso  
 
-**Usuario registrado**
-Puede revisar el curso
-Acceder a ejercicios y exámenes 
-Tener registro de “ruta ideal” 
+**Usuario registrado (Alumno)**
+Puede revisar el curso  
+Acceder a ejercicios y exámenes   
+Tener registro de “ruta ideal”  
 
 **Administrador**
-Puede generar usuarios y cursos 
-Identificar actividades entregadas
+Puede generar usuarios y cursos  
+Identificar actividades entregadas  
 Ver el rendimiento de los alumnos (individual y en grupo)
+
+**Profesor**
+Puede revisar el contenido del curso   
+Visualizar las respuestas de los alumnos   
+Dar retroalimentación al alumno 
