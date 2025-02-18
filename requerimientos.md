@@ -18,21 +18,21 @@ Debe estar condormado poe 8 módulos
 Está diseñado para estudiantes que quieren reforzar sus conocimientos, ya sea que tengan dudas en ciertas áreas o necesiten una guía para repasar todo el contenido. A lo largo del curso, tendrás acceso a explicaciones detalladas, ejercicios interactivos, y tests prácticos para evaluar tu progreso.
 Pueden ser estudiantes de secundaria en adelante, principalmente mexicanos, sin embargo al ser contenido de matemáticas en idioma español, podría ser visitado desde varios países. 
 
-## Casos de uso
-**Usuario no registrado**
-Puede visualizar el contenido del curso  
+## Casos de uso  
+**Usuario no registrado**   
+Puede visualizar el contenido del curso    
 
-**Usuario registrado (Alumno)**
-Puede revisar el curso  
-Acceder a ejercicios y exámenes   
-Tener registro de “ruta ideal”  
+**Usuario registrado (Alumno)**   
+Puede revisar el curso    
+Acceder a ejercicios y exámenes     
+Tener registro de “ruta ideal”    
 
-**Administrador**
-Puede generar usuarios y cursos  
-Identificar actividades entregadas  
-Ver el rendimiento de los alumnos (individual y en grupo)
+**Administrador**   
+Puede generar usuarios y cursos    
+Identificar actividades entregadas    
+Ver el rendimiento de los alumnos (individual y en grupo)  
 
-**Profesor**
-Puede revisar el contenido del curso   
-Visualizar las respuestas de los alumnos   
-Dar retroalimentación al alumno 
+**Profesor**   
+Puede revisar el contenido del curso    
+Visualizar las respuestas de los alumnos    
+Dar retroalimentación al alumno   
