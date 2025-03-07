@@ -9,9 +9,9 @@ El sistema debe considerar características del alumno de acuerdo a la teoría d
 
 Se necesita que la plataforma cumpla con las siguientes caracteristicas
 
-1- Se debe poder revisar el avance de cada alumno
-2- Debe permitir el consumo de material educativo.
-3- Permitir la realizacion de planeacion de clases.
-4- Permitir la comunicacion entre alumnos y con el profesor.
-5- Los alumnos podrán subir documentos como tareas y realizar examenes.
-6- Debe tener la capacidad de recomendar contenido educativo a los alumnos de acuerdo a su estilo de aprendizaje.
+1- Se debe poder revisar el avance de cada alumno   
+2- Debe permitir el consumo de material educativo.   
+3- Permitir la realizacion de planeacion de clases.    
+4- Permitir la comunicacion entre alumnos y con el profesor.   
+5- Los alumnos podrán subir documentos como tareas y realizar examenes.    
+6- Debe tener la capacidad de recomendar contenido educativo a los alumnos de acuerdo a su estilo de aprendizaje.   
