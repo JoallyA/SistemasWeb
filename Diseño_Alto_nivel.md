@@ -30,3 +30,5 @@ Los siguientes casos de uso no están contemplados como casos de uso en este sis
 * Se pueden agregar diferentes cursos, no solo cursos enfocados a matematicas.
 
 ## Solucion
+Se propone utilizar Moodle para el curso, dado que ofrece las funcionalidades requeridas, como el inicio de sesión de usuarios, la gestión de perfiles, el envío de actividades y materiales de estudio, así como la posibilidad de facilitar la comunicación entre profesores y alumnos.    
+Adicionalmente, se sugiere desplegar el sistema en AWS. Aunque en un principio la plataforma no manejará un gran volumen de usuarios, cursos o ubicaciones geográficas, AWS ofrecería la flexibilidad necesaria para escalar y ajustar el sistema en caso de un aumento en la demanda, garantizando así la estabilidad y evitando posibles fallos.
