@@ -14,7 +14,10 @@ Pueden ser estudiantes de secundaria en adelante, principalmente mexicanos, sin 
 5- Programa de evaluaciones   
 6- Logueo   
 7- Minería de procesos educativos (Que permita identificar la "ruta ideal de aprendizaje")    
-8- Estadísticas (Se debe revisar las actividades con las que cumple el alumno, si aprendió el tema o no, calificaciones individuales y grupales, promedio individual y grupal, etc.)  
+8- Estadísticas (Se debe revisar las actividades con las que cumple el alumno, si aprendió el tema o no, calificaciones individuales y grupales, promedio individual y grupal, etc.)      
+
+![Arquitectura1](arquitectura1.png)     
+
 
 ### Diagramas
 asdasda
