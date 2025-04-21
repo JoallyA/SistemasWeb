@@ -23,7 +23,7 @@ Pueden ser estudiantes de secundaria en adelante, principalmente mexicanos, sin 
 ![Arquitectura1](arquitectura1.png)     
 
 ### Modelo de datos
-![Modelo de datos](Modelodedatos1.png)
+![Modelo de datos](modeloDeDatos1.png)
 ## Limitaciones
 asdasdad
 ## Costo
